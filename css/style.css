@@ -559,7 +559,7 @@ i.fa-solid.fa-list {
 }
 
 .features-right img {
-    width: 100%;
+    width: 50%;
     animation: move 5s infinite;
 }
 
